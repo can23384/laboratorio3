@@ -1,0 +1,9 @@
+id_producto;nombre;cantidad_disponible;cantidad_vendidos;estado;precio;categoria;ml;tipo;gramos;sabor;tamano;tipo_fruta
+2;pepsi;10;4;disponible;12.4;bebidas;300;energetica;0;0;0;0
+7;chetos;5;5;no disponible;5.3;snacks;0;0;500;picante;individual;0
+90;manzana;10;3;disponible;2;fruta;0;0;0;0;0;dulce
+4;naranjada;5;5;no disponible;10;bebidas;290;natural;0;0;0;0
+9;gallo;3;2;disponible;15.69;bebidas;400;con licor;0;0;0;0
+70;banana;7;7;no disponible;5.9;fruta;0;0;0;0;0;amarga
+8;lais;7;5;disponible;4.7;snacks;0;0;400;barbacoa;familiar;0
+60;uva;15;10;disponible;4;fruta;0;0;0;0;0;agria
